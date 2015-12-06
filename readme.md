@@ -36,10 +36,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video src="http://i.imgur.com/ChO4qjr.webm" controls>
-</video>
-
-<img src='PopularPhotosWalkthroughV1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='PopularPhotosWalkthroughV2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
